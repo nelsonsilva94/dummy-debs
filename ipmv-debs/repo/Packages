@@ -1,0 +1,41 @@
+Package: ipmv-core
+Version: 1.1.0
+Architecture: amd64
+Maintainer: nelson@bisect.pt
+Depends: ipmv-dep-1 (= 1.6.10),
+         ipmv-dep-2 (= 2.0.4)
+Filename: ./ipmv-core.deb
+Size: 2878
+MD5sum: f9785415d8d514bf5598dcca44090022
+SHA1: 63ec7792c24087e24a21537ac1d1f51451a6767a
+SHA256: 73c2e2fe85455242d020b87404db95743e10a85ce42a4df55cba0e60fa913746
+Section: custom
+Priority: optional
+Description: IPMV CORE TEST DEB PACKAGE
+
+Package: ipmv-dep-1
+Version: 1.6.10
+Architecture: amd64
+Maintainer: nelson@bisect.pt
+Filename: ./ipmv-dep-1.deb
+Size: 2844
+MD5sum: 8d70694d8809d4076f771881d14741a4
+SHA1: e58976e226dc13c20e114c64755fdc0ac44b9309
+SHA256: 07256c1666c23939d6a15e719a5a3a763bc6f2cb9bbb5a3cee1f14dee5864598
+Section: custom
+Priority: optional
+Description: IPMV DEPENDENCY TEST 02
+
+Package: ipmv-dep-2
+Version: 2.0.4
+Architecture: amd64
+Maintainer: nelson@bisect.pt
+Filename: ./ipmv-dep-2.deb
+Size: 2852
+MD5sum: 884b620f3a87a7585e4986d0bf8287e5
+SHA1: 37d68eabefcaf6bcf288ddcb0c8ea704cacd8f11
+SHA256: 0ee95951f86bbf67e7ab19badf42ec30dcd7b2442406c1f7b7a3d18a13723558
+Section: custom
+Priority: optional
+Description: IPMV DEPENDENCY TEST 02
+
