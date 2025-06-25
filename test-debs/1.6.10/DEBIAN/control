@@ -1,0 +1,7 @@
+Package: ipmv-dep-1
+Version: 1.6.10
+Section: custom
+Priority: optional
+Architecture: amd64
+Maintainer: nelson@bisect.pt
+Description: IPMV DEPENDENCY TEST 02
